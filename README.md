@@ -1,3 +1,5 @@
+                                                                      ##آية محمد عوض عبدالقادر        
+
 #  Islamic Library App
 
 A beautiful, modern Flutter mobile application designed to showcase a curated collection of 8 authentic and classic Islamic books. The app offers a seamless user experience with dual layout viewing modes, instant search filtering, and custom-styled book cards.
