@@ -95,7 +95,7 @@ assets/
 * **Material Design 3** - Modern UI components
 
 
-## 📱 Screenshots
+##  Screenshots
 
 ### List View
 ![List View](screenshots/list_view.png)
