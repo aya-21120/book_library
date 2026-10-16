@@ -19,7 +19,7 @@ A beautiful, modern Flutter mobile application designed to showcase a curated co
   - *الداء والدواء* (Ad-Da' wa Ad-Dawa')
 
 - **Dual Viewing Modes (List & Grid):** 
-  - Smooth toggle between **ListView** and **GridView** (2 columns) using an `IconButton` in the `AppBar`.
+  - Smooth toggle between **ListView** and **GridView** (4 columns) using an `IconButton` in the `AppBar`.
   - State is managed reactively via `setState()`.
 
 - **Live Search Filtering:**
