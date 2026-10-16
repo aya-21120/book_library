@@ -35,12 +35,6 @@ A beautiful, modern Flutter mobile application designed to showcase a curated co
 
 ---
 
-##  UI Theme
-
-Designed with a rich Islamic Emerald Green palette (`#1B5E20`) that dynamically applies across all widgets using Material 3 `Theme.of(context)`.
-
----
-
 ##  Project Architecture
 
 ```text
