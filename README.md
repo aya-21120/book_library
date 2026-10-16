@@ -43,7 +43,9 @@ lib/
     book_card.dart   # Reusable card widget with Stack/Positioned elements
     home_page.dart   # Main interface with search bar, list/grid toggle & state
     main.dart        # Entry point configuring the global Material app theme
-```
+
+```text
+
 assets/
     covers/
        40_hadith.png
